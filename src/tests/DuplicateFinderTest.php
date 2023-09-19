@@ -1,7 +1,7 @@
 <?php
-namespace Esquare\Challenge3\Tests;
+namespace Esquare\Challenge2\Tests;
 
-use Esquare\Challenge3\DuplicateFinder;
+use Esquare\Challenge2\DuplicateFinder;
 use PHPUnit\Framework\TestCase;
 
 class DuplicateFinderTest extends TestCase

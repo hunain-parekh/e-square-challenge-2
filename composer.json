@@ -1,9 +1,9 @@
 {
-    "name": "esquare/challenge-3",
-    "description": "Challenge 3 assign by E Square",
+    "name": "esquare/challenge-2",
+    "description": "Challenge 2 assign by E Square",
     "autoload": {
         "psr-4": {
-            "Esquare\\Challenge3\\": "src/"
+            "Esquare\\Challenge2\\": "src/"
         }
     },
     "authors": [
