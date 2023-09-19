@@ -1,0 +1,18 @@
+{
+    "name": "esquare/challenge-3",
+    "description": "Challenge 3 assign by E Square",
+    "autoload": {
+        "psr-4": {
+            "Esquare\\Challenge3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hunain Parekh",
+            "email": "hunain.parekh@xloopdigital.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}
