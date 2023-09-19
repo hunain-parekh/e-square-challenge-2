@@ -1,5 +1,5 @@
 <?php
-namespace Esquare\Challenge3;
+namespace Esquare\Challenge2;
 
 class DuplicateFinder
 {
